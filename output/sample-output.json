@@ -1,0 +1,34 @@
+{
+  "emails": [
+    {
+      "masked": "mo***@gmail.com",
+      "alu_type": "n/a"
+    },
+    {
+      "masked": "mo***@yahoo.co.uk",
+      "alu_type": "n/a"
+    },
+    {
+      "masked": "c.***@alustudent.com",
+      "alu_type": "n/a"
+    },
+    {
+      "masked": "c.***@alumni.alueducation.com",
+      "alu_type": "alumni"
+    },
+    {
+      "masked": "j.***@si.alueducation.com",
+      "alu_type": "si"
+    }
+  ],
+  "cards": [
+    "************6467",
+    "***********0005"
+  ],
+  "phones": [
+    "+250 788 123 456"
+  ],
+  "links": [
+    "https://pay.kigalitraders.rw/receipts/2026/08/rc-88213?lang=en&expand=1"
+  ]
+}

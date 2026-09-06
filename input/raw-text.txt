@@ -1,0 +1,19 @@
+kigali traders support dump - pulled 2026-09-03, not cleaned up, sorry in advance
+
+moses called in about a failed top up around 14:32, followed up again at 9:05 PM.
+his email is moses.hakizimana@gmail.com, backup is moses.h.2019@yahoo.co.uk, and he
+pasted his card into the chat by mistake - 4539 1488 0343 6467 - told him not to do
+that again. cell is +250 788 123 456. link for the receipt if anyone needs it:
+https://pay.kigalitraders.rw/receipts/2026/08/rc-88213?lang=en&expand=1
+
+ticket from the registrar side, forwarded by c.karaha@alustudent.com, cc'd both
+c.karaha@alumni.alueducation.com and j.uwase@si.alueducation.com. someone in the same
+thread typed not.an.email@@alueducation..com which obviously isn't real, ignoring that.
+
+second card on a totally different order looks made up, way too clean:
+4111 1111 1111 1112 - also grabbed 3782-822463-10005 off the partner invoice for the
+same one which looks legit. marketing wants #KOHO2026 flagged if it shows up anywhere.
+
+last thing - somebody pasted this straight into the notes field on ticket 4414, not
+touching it, just logging that it happened: <script>alert(document.cookie)</script>
+and further down the same note: admin' OR '1'='1 -- yeah, not treating that as data.
